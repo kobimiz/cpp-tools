@@ -1,0 +1,5 @@
+.vscode
+node_modules
+out
+test3.txt
+vsc-extension-quickstart.md
